@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Podcast+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 gPodder Free Installer** — gPodder is a free, open-source podcast manager and downloader for Windows, macOS, Linux, and even MeeGo. Works without internet access, no account required. Full offline installation.
+**💻 gPodder Free Installer** — gPodder is a free, open-source podcast client for Windows, macOS, and Linux that downloads and manages podcast subscriptions. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About gPodder
 
-gPodder is a free, open-source podcast manager and downloader for Windows, macOS, Linux, and even MeeGo. Subscribe to podcasts, manage downloads, track listening progress, and sync with gPodder.net for multi-device subscriptions. gPodder's cross-platform support and open architecture have made it a stalwart podcast management tool for users who prefer local podcast management over streaming services.
+gPodder is a free, open-source podcast client for Windows, macOS, and Linux that downloads and manages podcast subscriptions. It supports OPML import/export for moving subscriptions between apps and provides a simple, functional interface.
 
 ---
 
 ## ❌ Problem: gPodder is hard to access
 
-- **Interface Dated** — Visual design less modern than podcast apps on mobile platforms
-- **Mobile Sync** — gPodder.net sync required for cross-device continuity
-- **Platform Inconsistency** — Feature sets vary slightly across operating systems
-- **Discovery** — No built-in podcast directory for discovering new shows
+- **Dated Interface** — UI design significantly older than modern podcast apps
+- **No Audio Player** — Downloads podcasts but requires external media player for listening
+- **Mobile Sync** — Syncing with gpodder.net requires account setup; third-party sync limited
+- **Competition** — Podcast Addict and modern desktop podcast apps offer better listening experience
 
 ---
 
@@ -121,7 +121,7 @@ gPodder is a free, open-source podcast manager and downloader for Windows, macOS
 
 ---
 
-**gPodder Free Installer** — gPodder is a free, open-source podcast manager and downloader for Windows, macOS, Linux, and even MeeGo. Install without internet connection today!
+**gPodder Free Installer** — gPodder is a free, open-source podcast client for Windows, macOS, and Linux that downloads and manages podcast subscriptions. Install without internet connection today!
 
 <div align="center">
 
